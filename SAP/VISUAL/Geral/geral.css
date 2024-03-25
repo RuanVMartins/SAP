@@ -11,7 +11,7 @@ body{
     background-color: rgba(217,233,253,255);
     border-radius: 30px;
     margin: 10px;   
-  
+    width: 90vmin;
 }
 
 #imagens_1{
@@ -68,7 +68,7 @@ body{
     border-radius: 30px;
     display: flex; 
     margin: 10px;
-    width: 88vmin;
+    width: 90vmin;
 }
 
 #sec_2_1{
@@ -136,36 +136,64 @@ body{
     
 }
 
-#sec_1_2{
-    img{
-        margin-left: 50px;
-        background-color: white; width: 100px; height: 100px;
+#img1{     
+        width: 115px; height: 125px;
         border-radius: 20px;
-}       border-left: 87908px;
+}      
+
+#seta12{
+    height: 30px; width: auto;
+    margin-left: 10px;
+    margin-top: 80px;
+    transform: rotate(180deg);
+}
+
+#seta123{
+    height: 30px; width: auto;
+    margin-left: 8px;
+    margin-left: 10px;
+    margin-top: 80px;
 }
 
 #baseado{
     color: #0041cc;
-    margin-left: 30px;
+    margin-left: 8px;
+    margin-top: 20px;
+}
+
+
+#quadrado_1, #quadrado_2, #quadrado_3, #quadrado_4, #quadrado_5, #quadrado_6, #quadrado_12{
+    background-color: white;
+    border-radius: 5px;
+    height: 200px ;
+    width: 123px;
+    margin-left: 10px;
+    text-align: left;
+    
+}
+
+#quadrado_1{
+margin-left: 15px;
+}
+
+#divquadrado_1, #divquadrado_2, #divquadrado_3, #divquadrado_4, #divquadrado_5, #divquadrado_6{
+    display:flex;
+}
+#img_Todas{
+    display: flex;
+}
+
+#bolas{
+    height: 30px;
+    width: auto;
+    margin-left: 390px;
+    margin-top: 10px;
 }
 
 
 
 
 
-
-
-
-
-
-
-
-#tudo{
-    background-color: whitesmoke;   
-}
-
-#imagen2-1{width: 1858px;}
-#imagen2-2{width: 1856px;}
 
 #set1-1{
     background-color: #e0dcdc;
@@ -173,4 +201,166 @@ body{
 
 #tex1-1{
     margin-left: 10px;
+}
+
+#sec_2_2{
+background-color: rgba(217,233,253,255);
+border-radius: 20px;   
+margin: 10px; 
+width: 60vmin;
+}
+
+#segunda{
+    display: flex;
+    height: 35vmin;
+}
+
+#E,#F,#G,#H{
+    background-color: white;
+    padding-bottom:25px;
+    color: #8b8b8b;
+    padding-top: 16px;
+    border-radius:20px;   
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top:-13px;
+    position: relative;
+    font-size: small;
+}
+
+#Margin1,#Margin2,#Margin3,#Margin4{
+    font-size: small;
+    margin-top:43px;
+}
+
+#terceira{
+    display: flex;
+    height: 35vmin;
+}
+
+#texto_3_3{
+    position: relative;
+    margin-bottom: -300px;
+}
+
+#sec_3_1{
+    padding-left: 10px;
+    background-color: rgba(217,233,253,255);
+    border-radius: 30px; 
+    margin: 10px;
+    width: 88vmin;
+    position: relative;
+}
+
+#sec_3_2{
+    background-color: rgba(217,233,253,255);
+    border-radius: 20px;   
+    margin: 25px; 
+    width: 60vmin;
+}
+
+#brunos{
+    img{
+    position: absolute;
+    height: 40px; width: auto;
+    border-radius: 40px;
+    background-color: aquamarine;
+    border: 40px;
+    margin-left: 25px;
+}
+}
+
+#bruno1{margin-top: -245px;}
+#bruno2{margin-top: -185px;}
+#bruno3{margin-top: -127px}
+#bruno4{margin-top: -67px}
+
+#burguer{
+    position: absolute;
+    margin-left: 25px;
+}
+
+#rec1{
+    margin-top: -2045px;
+}
+
+
+#sec2-1{
+    
+}
+
+#texto_4_2{
+    margin-left:0px;
+    margin-bottom:20px;
+}
+
+#I,#J,#K{
+    
+}
+
+#terceira{
+   display: flex;
+   height: 35vmin;     
+}
+
+
+#midnight{
+    display: flex;
+}
+
+#bolas1{
+    height: 30px;width: auto;
+    margin-left: 255px;
+    margin-top: 10px;
+}
+
+
+#quadrado_12{
+    margin-left: 80px;
+    }
+
+    #bolas12{
+        height: 30px;width: auto;
+        margin-left: -90px;
+        margin-top: 50px;
+    }
+
+#texto_3_3{
+    position: relative;
+    margin-left: 45vmin;
+    color: #8b8b8b;
+    text-align: center;
+    margin-top:-285px;
+    padding: 1px;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+#imagen2-1{
+    width: 1914px; height: auto;
+    
+    position: relative;
+}
+
+
+#first{
+    background-color: whitesmoke;   
+   width: 1000000000000000000000000000000000000000000000px;
+}
+
+#second{
+    
+
+#third{
+    background-color: #ff0000; 
+    height: 89vmin;
+    width: 60vmin;
+}
+
+#psec{
 }
